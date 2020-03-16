@@ -1,6 +1,6 @@
-функция wc на php
+//функция wc на php
 
-<?php
+
 function mysum(){
 	$count =0;
 	while(fgets(STDIN)){
@@ -12,7 +12,7 @@ echo $count;
 }
 mysum();
 
-?>
+
 
 //level 1 и level 2
 
