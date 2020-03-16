@@ -1,4 +1,4 @@
-// функция wc на php
+функция wc на php
 
 <?php
 function mysum(){
